@@ -1,0 +1,98 @@
+.a{
+   	background-image: linear-gradient(to right,#fcaf1f,#0091ff);
+  }
+.logo{
+	width: 160px;
+   	height: 50px;
+   	border-radius: 50%;
+     }
+
+
+ .img{
+     background-image: url(https://www.tatateleservices.com/Theme/Business/default/campaign/campaign-new-layout/images/fleet-track-desktop-banner-eng.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 600px;
+  }   
+
+  .heading1{
+    color: #fcaf1f;
+    margin-top: 350px;
+    font-family: 'Bodoni Moda', serif; 
+    text-align: justify;
+    font-weight:bold;
+  } 
+
+  .heading2{
+    font-size: 29px;
+    text-align: justify;
+    color: #fcaf1f;
+    font-family: 'Lobster', cursive;
+  }
+
+  .inner{
+  overflow: hidden;
+}
+
+.inner img{
+  transition: all 1.5s ease;
+}
+
+.inner:hover img{
+  transform: scale(1.5);
+}
+
+.heading3{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #fcaf1f;
+  font-family: 'Lobster', cursive;
+  text-align: left;
+}
+
+  .f{
+    color:#757b0f;
+    font-weight: bold; 
+  }
+
+  .img4{
+              width: 100%;
+                height: 300px;
+                margin-top: 20px;
+                margin-bottom: 20px;
+                border-radius: 50%;
+          }
+          .heading5{
+                font-family: 'Bodoni Moda', serif;
+                font-weight: bold;
+                margin-top: 20px;
+                color: #fcaf1f;
+                text-align: left;
+          }
+          
+               .z{
+              color: #fff;
+                  }
+              .paragraph2{
+                color: #c4f13c;
+                text-align: left;
+                
+              }
+              .paragraph3{
+                color: #00ff7e;         
+              }
+              .paragraph4{
+                color: #00ff7e;
+                text-align: left!important;
+              }
+              .icon{
+                width: 40px;
+                font-size: 2rem; 
+
+              }
+            .policy{
+              background-image: linear-gradient(to right,#fcaf1f,#7cc7c5);
+              height: 70px;
+
+            }
+

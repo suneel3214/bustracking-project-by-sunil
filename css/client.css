@@ -1,0 +1,94 @@
+body{
+  background-image: linear-gradient(to right,#c7aa73,#0091ff);
+}
+.a{
+    background-image: linear-gradient(to right,#fcaf1f,#0091ff);
+   }
+.logo{
+  	width: 160px;
+    height: 50px;
+    border-radius: 50%;
+    }
+
+.img{
+     background-image: url(https://ctracklive.in/assets/images/background/628814.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 600px;
+  } 
+.heading1{
+     margin-top: 110px;
+     font-family: 'Bodoni Moda', serif;
+     color: #fcaf1f;
+    font-weight:bold;
+     }  
+.paragraph{
+	color: #eaeadc;
+    text-align: justify;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.heading2{
+     margin-top: 20px;
+     font-family: 'Lobster', cursive;
+     color: #fcaf1f;
+    font-weight:bold;
+     } 
+ .inner{
+  overflow: hidden;
+}
+
+.inner img{
+  transition: all 1.5s ease;
+}
+
+.inner:hover img{
+  transform: scale(1.5);
+}
+.card-title{
+    font-family: 'Lobster', cursive;
+    font-weight:bold; 
+    font-size: 25px;
+}
+
+.img4{
+         	    width: 100%;
+                height: 300px;
+                margin-top: 20px;
+                margin-bottom: 20px;
+                border-radius: 50%;
+         	}
+         	.heading5{
+                font-family: 'Bodoni Moda', serif;
+                font-weight: bold;
+                margin-top: 20px;
+                color: #fcaf1f;
+                text-align: left;
+         	}
+         	
+               .z{
+        	    color: #fff;
+                  }
+              .paragraph2{
+              	color: #c4f13c;
+              	text-align: left;
+              	
+              }
+              .paragraph3{
+              	color: #00ff7e;        	
+              }
+              .paragraph4{
+              	color: #00ff7e;
+              	text-align: left!important;
+              }
+              .icon{
+              	width: 40px;
+              	font-size: 2rem; 
+
+              }
+            .policy{
+            	background-image: linear-gradient(to right,#fcaf1f,#7cc7c5);
+            	height: 70px;
+
+            }

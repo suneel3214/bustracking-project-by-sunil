@@ -1,0 +1,106 @@
+
+         	.a{
+         		background-image: linear-gradient(to right,#fcaf1f,#0091ff);
+         	}
+         	.logo{
+         		width: 160px;
+         		height: 50px;
+         		border-radius: 50%;
+         	}
+         	.heading1{
+                margin-top: 30px;
+                font-family: 'Bodoni Moda', serif;
+                color: #fcaf1f;
+                font-weight:bold;
+         	}
+
+         	.paragraph1{
+         		text-align: justify;
+         		line-height: 32px;
+         		font-family: 'Redressed', cursive;
+         	}
+         	.img1{
+         		width: 100%;
+         		height: 400px;
+         		box-shadow: 0 0px 0px 0 rgb(212 38 38), 0 6px 20px 0 rgb(28 28 29 / 19%);
+         	}
+         	.heading2{
+                font-family: 'Bodoni Moda', serif;
+                color: #fcaf1f;
+                font-weight:bold;
+         	}
+         	.heading3{
+         		margin-top: 20px;
+                font-family: 'Bodoni Moda', serif;
+                color: #fcaf1f;
+                font-weight:bold;
+         	}
+
+         	.img2{
+         		width: 100%;
+         		height: 200px;
+         		margin-top: 20px;
+
+         	}
+         	.heading4{
+                font-family: 'Bodoni Moda', serif;
+                font-weight: 200px;
+                color: #fcaf1f;
+         	}
+
+           .inner{
+  overflow: hidden;
+}
+
+.inner img{
+  transition: all 1.5s ease;
+}
+
+.inner:hover img{
+  transform: scale(1.5);
+}
+         	.img3{
+         		width: 40%;
+         		height: 60px;
+         		margin-top: 20px;
+         	}
+         	.img4{
+         	    width: 100%;
+                height: 300px;
+                margin-top: 20px;
+                margin-bottom: 20px;
+                border-radius: 50%;
+         	}
+         	.heading5{
+                font-family: 'Bodoni Moda', serif;
+                font-weight: bold;
+                margin-top: 20px;
+                color: #fcaf1f;
+                text-align: left;
+         	}
+         	
+               .z{
+        	    color: #fff;
+                  }
+              .paragraph2{
+              	color: #c4f13c;
+              	text-align: left;
+              	
+              }
+              .paragraph3{
+              	color: #00ff7e;        	
+              }
+              .paragraph4{
+              	color: #00ff7e;
+              	text-align: left!important;
+              }
+              .icon{
+              	width: 40px;
+              	font-size: 2rem; 
+
+              }
+            .policy{
+            	background-image: linear-gradient(to right,#fcaf1f,#7cc7c5);
+            	height: 70px;
+
+            }
